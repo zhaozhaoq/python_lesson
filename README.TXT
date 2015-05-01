@@ -7,4 +7,4 @@ Make change!
 
 Some changes to practice committing with collaborators.
 
-Did I beat you?!
+I write what I want.
